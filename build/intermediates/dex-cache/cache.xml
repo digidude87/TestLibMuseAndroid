@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\java_pr\Project\TestLibMuseAndroid\app\libs\GraphView-4.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="20768335ab718b2a912f9155f9d1893d5fc931ce">
+        <dex dex="G:\java_pr\Project\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\GraphView-4.0.0-3ef337819120a308ff017d463ad52cb703a89fc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Croma\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="G:\java_pr\Project\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-33451852e851cae61d8d9506c8ec4b2509a1cfa1.jar" />
+    </item>
+    <item
+        jar="G:\java_pr\Project\TestLibMuseAndroid\app\libs\achartengine-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="75277dbcf10e93cc38648e48b353597fbb14069a">
+        <dex dex="G:\java_pr\Project\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\achartengine-1.2.0-068554c41fda951743d652b3c4188c1d919f9bb3.jar" />
+    </item>
+    <item
+        jar="G:\java_pr\Project\TestLibMuseAndroid\app\libs\libmuseandroid.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29c9db643c9cd140b86ad1788d6b9fdf96983037">
+        <dex dex="G:\java_pr\Project\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\libmuseandroid-9d2cafac8bd5deb198c758dea06a4bf3643de277.jar" />
+    </item>
+
+</items>

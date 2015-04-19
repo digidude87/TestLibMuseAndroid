@@ -1,0 +1,5 @@
+G:\java_pr\Project\TestLibMuseAndroid\app\build\intermediates\classes\debug
+G:\java_pr\Project\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\libmuseandroid-9d2cafac8bd5deb198c758dea06a4bf3643de277.jar
+G:\java_pr\Project\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\GraphView-4.0.0-3ef337819120a308ff017d463ad52cb703a89fc9.jar
+G:\java_pr\Project\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\achartengine-1.2.0-068554c41fda951743d652b3c4188c1d919f9bb3.jar
+G:\java_pr\Project\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-33451852e851cae61d8d9506c8ec4b2509a1cfa1.jar
