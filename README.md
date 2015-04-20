@@ -1,0 +1,9 @@
+# TestLibMuseAndroid
+HackRU
+
+An android app to connect with Muse hardware over bluetooth and list out its brain wave readings on the GUI.
+The reading variations are then used to try and figure out the mood of person. 
+
+Also the person wearing Muse has the option to tweet his brain readings at the click of a button and pause/continue the readings.
+
+The project was developed with David Awad, Apoorv Verma and Rob Casale over a weekend at HackRU
